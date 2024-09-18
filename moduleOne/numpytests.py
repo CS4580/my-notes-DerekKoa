@@ -10,7 +10,7 @@ def main():
     """
     
     #create a 2d 3X3 Identity
-    identity3by3 = eye(3,3)
+    identity3by3 = np.eye(3,3)
     print(identity3by3)
 
     diagnal_2d = np.diag([2,3,4])
