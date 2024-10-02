@@ -1,0 +1,15 @@
+ModuleNotes: review descriptice stats
+- review descriptive stats
+- introduction to data vizualtion
+- review intermediate python concepts: comprehensions and lamdas
+
+###Create new virtual env
+
+```bash
+#create
+conda create -n module4 python=3.12
+#activate
+conda activate module4
+#install pack
+conda install <Package_name>
+```
